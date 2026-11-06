@@ -81,7 +81,7 @@ python_very_good = "Python very good"
 
 print("ЗАДАНИЕ 8")
 print(python_very_good[:3])
-print(python_very_good[:-3])
+print(python_very_good[-3:])
 print(python_very_good[::2])
 print(python_very_good[::-1])
 print("=" * 60, end="\n\n")

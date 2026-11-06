@@ -8,8 +8,8 @@ fruits.update(["груша"], ["виноград"])
 fruits.discard("банан")
 fruits.discard("киви")
 # fruits.remove("киви")
-fruits.pop()
-print(fruits)
+my_random_elem = fruits.pop()
+print(f"my_random_elem: {my_random_elem}, fruits: {fruits}")
 
 # ЗАДАНИЕ 2: Работа с кортежами
 

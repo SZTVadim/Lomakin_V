@@ -7,7 +7,7 @@ pi_number = 3.14
 my_list = [1, 2, 3]
 
 print("ЗАДАНИЕ 1")
-print(forty_two, pi_number, my_list, sep="\n")
+print(type(privet_string), type(forty_two), type(pi_number), type(my_list), sep="\n")
 print("=" * 60, end="\n\n")
 
 # ЗАДАНИЕ 2: Преобразование регистра строк
